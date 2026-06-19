@@ -1,0 +1,5 @@
+Scan Report - 127.0.0.1
+Time: 2026-06-19 16:42:06.279823
+
+[OPEN] Port 135 --> Windows RPC
+[OPEN] Port 445 --> SMB
